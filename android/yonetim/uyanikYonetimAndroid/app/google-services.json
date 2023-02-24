@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794110144670",
+    "project_id": "uyanikyonetim",
+    "storage_bucket": "uyanikyonetim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794110144670:android:1bf227c9ddd9cb9e448b8f",
+        "android_client_info": {
+          "package_name": "com.uyanikkutuphane.uyanikyonetim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794110144670-h9v8t6jmsdha9m575coedbjf70o3gvlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc7_Ht5Kloc7io79N_CtD9a2s1J3GIDAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794110144670-h9v8t6jmsdha9m575coedbjf70o3gvlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
