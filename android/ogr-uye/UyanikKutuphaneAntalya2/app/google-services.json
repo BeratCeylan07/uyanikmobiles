@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "165048237857",
+    "project_id": "uyanik-kutuphane-antalya",
+    "storage_bucket": "uyanik-kutuphane-antalya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165048237857:android:f402a41ed40497f9808860",
+        "android_client_info": {
+          "package_name": "com.uyanikkutuphane.uyanikkutuphaneantalya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165048237857-0jm15k5vssh8o45divrtftl2fuc0quke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxG6rn6GJabA3F26e3aleyH4mIBKZ9ZCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165048237857-0jm15k5vssh8o45divrtftl2fuc0quke.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "165048237857-6c7qee47i69pcufj3e5ej5v2r1hmkui7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uyanikKutuphane.UyanikAntalya"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
